@@ -1,4 +1,18 @@
+#root {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+}
+
 .App {
+  grid-area: 1 / 2;
   font-family: sans-serif;
   text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
 }
