@@ -5,14 +5,10 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@types/stylus": "0.48.32",
-    "css-loader": "3.5.2",
-    "nib": "1.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
-    "stylus": "0.54.7",
-    "stylus-loader": "3.0.2"
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.3.0"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
